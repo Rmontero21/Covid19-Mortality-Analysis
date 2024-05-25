@@ -3,7 +3,7 @@
 ### Table of Contents
 - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 - [SQL Query Data Analysis](#SQL-Query-Data-Analysis)
-- [Results & Findings](#Results-&-Findings)
+- [Results & Findings](#Results)
 - [Limitations](#Limitations)
 
 ### Project Overview and Objetives
@@ -144,7 +144,7 @@ FROM PopvsVac
 ```
 
 ---
-### Results & Findings
+### Results
 
 The analysis results are summarized as follows:
 1. The United States is the country with more deaths registered with 1.19M along with 103.44M of people infected.
