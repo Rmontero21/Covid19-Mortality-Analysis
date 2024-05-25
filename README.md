@@ -2,6 +2,8 @@
 
 ### Table of Contents
 - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
+- [SQL Query Data Analysis](#SQL-Query-Data-Analysis)
+- [Results/Findings](#Results/Findings)
 
 ### Project Overview and Objetives
 ---
@@ -48,7 +50,7 @@ The EDA involved exploring the data to answer key questions, such as:
 <img width="632" alt="Map" src="https://github.com/Rmontero21/Covid19-Mortality-Analysis/assets/169692846/6278ce94-d8ce-452a-9cc4-0706c24dc6d9">
 
 ---
-### Data Analysis
+### SQL Query Data Analysis
 
 Include some interesting code/features that I worked with, please note that some of my inicial queries were focused in Central America data that I later changed to a global view. 
 
