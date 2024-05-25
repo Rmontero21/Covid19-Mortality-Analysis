@@ -1,5 +1,8 @@
 # Covid19 Mortality Analysis
 
+### Table of Contents
+- [Exploratory Data Analysis](#Exploratory-Data-Analysis)
+
 ### Project Overview and Objetives
 ---
 
@@ -7,6 +10,7 @@ This data analysis project assess the COVID-19 mortality rates globally, analyzi
 
 - Evaluate and compare COVID-19 mortality rates across multiple countries to identify disparities and trends in pandemic severity.
 - Analyze the relationship between the speed of COVID-19 infections and the progress of vaccination efforts within each nation to understand the impact of vaccination campaigns on controlling the pandemic.
+<img width="603" alt="Screenshot 2024-05-24 171335" src="https://github.com/Rmontero21/Covid19-Mortality-Analysis/assets/169692846/a2077a59-276f-4ab6-aba6-7de18e687346">
 
 
 ---
